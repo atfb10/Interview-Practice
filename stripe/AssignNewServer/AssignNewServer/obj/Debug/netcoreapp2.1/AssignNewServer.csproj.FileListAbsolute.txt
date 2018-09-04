@@ -1,0 +1,11 @@
+D:\General_Algorithms\Company_Interview_Questions\stripe\AssignNewServer\AssignNewServer\bin\Debug\netcoreapp2.1\AssignNewServer.deps.json
+D:\General_Algorithms\Company_Interview_Questions\stripe\AssignNewServer\AssignNewServer\bin\Debug\netcoreapp2.1\AssignNewServer.runtimeconfig.json
+D:\General_Algorithms\Company_Interview_Questions\stripe\AssignNewServer\AssignNewServer\bin\Debug\netcoreapp2.1\AssignNewServer.runtimeconfig.dev.json
+D:\General_Algorithms\Company_Interview_Questions\stripe\AssignNewServer\AssignNewServer\bin\Debug\netcoreapp2.1\AssignNewServer.dll
+D:\General_Algorithms\Company_Interview_Questions\stripe\AssignNewServer\AssignNewServer\bin\Debug\netcoreapp2.1\AssignNewServer.pdb
+D:\General_Algorithms\Company_Interview_Questions\stripe\AssignNewServer\AssignNewServer\obj\Debug\netcoreapp2.1\AssignNewServer.csprojAssemblyReference.cache
+D:\General_Algorithms\Company_Interview_Questions\stripe\AssignNewServer\AssignNewServer\obj\Debug\netcoreapp2.1\AssignNewServer.csproj.CoreCompileInputs.cache
+D:\General_Algorithms\Company_Interview_Questions\stripe\AssignNewServer\AssignNewServer\obj\Debug\netcoreapp2.1\AssignNewServer.AssemblyInfoInputs.cache
+D:\General_Algorithms\Company_Interview_Questions\stripe\AssignNewServer\AssignNewServer\obj\Debug\netcoreapp2.1\AssignNewServer.AssemblyInfo.cs
+D:\General_Algorithms\Company_Interview_Questions\stripe\AssignNewServer\AssignNewServer\obj\Debug\netcoreapp2.1\AssignNewServer.dll
+D:\General_Algorithms\Company_Interview_Questions\stripe\AssignNewServer\AssignNewServer\obj\Debug\netcoreapp2.1\AssignNewServer.pdb
