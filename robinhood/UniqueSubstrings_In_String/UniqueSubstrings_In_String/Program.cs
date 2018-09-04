@@ -2,6 +2,10 @@
 using System.Collections.Generic;
 using System.Linq;
 
+/// <summary>
+/// Print all unique substrings for any given string
+/// </summary>
+
 namespace UniqueSubstrings_In_String
 {
     class Program
