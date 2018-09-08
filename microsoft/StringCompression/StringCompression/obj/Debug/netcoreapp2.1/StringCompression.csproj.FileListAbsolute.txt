@@ -1,0 +1,11 @@
+D:\General_Algorithms\Company_Interview_Questions\microsoft\StringCompression\StringCompression\obj\Debug\netcoreapp2.1\StringCompression.csprojAssemblyReference.cache
+D:\General_Algorithms\Company_Interview_Questions\microsoft\StringCompression\StringCompression\obj\Debug\netcoreapp2.1\StringCompression.csproj.CoreCompileInputs.cache
+D:\General_Algorithms\Company_Interview_Questions\microsoft\StringCompression\StringCompression\obj\Debug\netcoreapp2.1\StringCompression.AssemblyInfoInputs.cache
+D:\General_Algorithms\Company_Interview_Questions\microsoft\StringCompression\StringCompression\obj\Debug\netcoreapp2.1\StringCompression.AssemblyInfo.cs
+D:\General_Algorithms\Company_Interview_Questions\microsoft\StringCompression\StringCompression\bin\Debug\netcoreapp2.1\StringCompression.deps.json
+D:\General_Algorithms\Company_Interview_Questions\microsoft\StringCompression\StringCompression\bin\Debug\netcoreapp2.1\StringCompression.runtimeconfig.json
+D:\General_Algorithms\Company_Interview_Questions\microsoft\StringCompression\StringCompression\bin\Debug\netcoreapp2.1\StringCompression.runtimeconfig.dev.json
+D:\General_Algorithms\Company_Interview_Questions\microsoft\StringCompression\StringCompression\bin\Debug\netcoreapp2.1\StringCompression.dll
+D:\General_Algorithms\Company_Interview_Questions\microsoft\StringCompression\StringCompression\bin\Debug\netcoreapp2.1\StringCompression.pdb
+D:\General_Algorithms\Company_Interview_Questions\microsoft\StringCompression\StringCompression\obj\Debug\netcoreapp2.1\StringCompression.dll
+D:\General_Algorithms\Company_Interview_Questions\microsoft\StringCompression\StringCompression\obj\Debug\netcoreapp2.1\StringCompression.pdb
