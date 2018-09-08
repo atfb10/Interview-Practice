@@ -1,0 +1,11 @@
+D:\General_Algorithms\Company_Interview_Questions\microsoft\Quicksort\Quicksort\bin\Debug\netcoreapp2.1\Quicksort.deps.json
+D:\General_Algorithms\Company_Interview_Questions\microsoft\Quicksort\Quicksort\bin\Debug\netcoreapp2.1\Quicksort.runtimeconfig.json
+D:\General_Algorithms\Company_Interview_Questions\microsoft\Quicksort\Quicksort\bin\Debug\netcoreapp2.1\Quicksort.runtimeconfig.dev.json
+D:\General_Algorithms\Company_Interview_Questions\microsoft\Quicksort\Quicksort\bin\Debug\netcoreapp2.1\Quicksort.dll
+D:\General_Algorithms\Company_Interview_Questions\microsoft\Quicksort\Quicksort\bin\Debug\netcoreapp2.1\Quicksort.pdb
+D:\General_Algorithms\Company_Interview_Questions\microsoft\Quicksort\Quicksort\obj\Debug\netcoreapp2.1\Quicksort.csprojAssemblyReference.cache
+D:\General_Algorithms\Company_Interview_Questions\microsoft\Quicksort\Quicksort\obj\Debug\netcoreapp2.1\Quicksort.csproj.CoreCompileInputs.cache
+D:\General_Algorithms\Company_Interview_Questions\microsoft\Quicksort\Quicksort\obj\Debug\netcoreapp2.1\Quicksort.AssemblyInfoInputs.cache
+D:\General_Algorithms\Company_Interview_Questions\microsoft\Quicksort\Quicksort\obj\Debug\netcoreapp2.1\Quicksort.AssemblyInfo.cs
+D:\General_Algorithms\Company_Interview_Questions\microsoft\Quicksort\Quicksort\obj\Debug\netcoreapp2.1\Quicksort.dll
+D:\General_Algorithms\Company_Interview_Questions\microsoft\Quicksort\Quicksort\obj\Debug\netcoreapp2.1\Quicksort.pdb
