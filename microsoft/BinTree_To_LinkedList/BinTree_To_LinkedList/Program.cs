@@ -20,7 +20,8 @@ namespace BinTree_To_LinkedList
         Node(int item)
         {
             data = item;
-            left = right = null;
+            left = null;
+            right = null;
         }
     }
 

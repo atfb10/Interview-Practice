@@ -13,7 +13,7 @@ namespace RemoveDups
         static void Main(string[] args)
         {
             // test input
-            char[] arr = { 'a', 'b', 'c', 'd', 'a', 'f', 'a', 'f', 'e' };
+            char[] arr = { 'a', 'b', 'c', 'd', 'a', 'f', 'a', 'f', 'e', 'e', 'f' };
 
             // call method, pass in arg
             char[] noDups = RemoveDups(arr);
