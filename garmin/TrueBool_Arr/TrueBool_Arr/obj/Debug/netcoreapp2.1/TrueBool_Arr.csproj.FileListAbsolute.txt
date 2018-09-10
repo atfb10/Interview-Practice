@@ -1,0 +1,11 @@
+D:\General_Algorithms\Company_Interview_Questions\Garmin\TrueBool_Arr\TrueBool_Arr\bin\Debug\netcoreapp2.1\TrueBool_Arr.deps.json
+D:\General_Algorithms\Company_Interview_Questions\Garmin\TrueBool_Arr\TrueBool_Arr\bin\Debug\netcoreapp2.1\TrueBool_Arr.runtimeconfig.json
+D:\General_Algorithms\Company_Interview_Questions\Garmin\TrueBool_Arr\TrueBool_Arr\bin\Debug\netcoreapp2.1\TrueBool_Arr.runtimeconfig.dev.json
+D:\General_Algorithms\Company_Interview_Questions\Garmin\TrueBool_Arr\TrueBool_Arr\bin\Debug\netcoreapp2.1\TrueBool_Arr.dll
+D:\General_Algorithms\Company_Interview_Questions\Garmin\TrueBool_Arr\TrueBool_Arr\bin\Debug\netcoreapp2.1\TrueBool_Arr.pdb
+D:\General_Algorithms\Company_Interview_Questions\Garmin\TrueBool_Arr\TrueBool_Arr\obj\Debug\netcoreapp2.1\TrueBool_Arr.csprojAssemblyReference.cache
+D:\General_Algorithms\Company_Interview_Questions\Garmin\TrueBool_Arr\TrueBool_Arr\obj\Debug\netcoreapp2.1\TrueBool_Arr.csproj.CoreCompileInputs.cache
+D:\General_Algorithms\Company_Interview_Questions\Garmin\TrueBool_Arr\TrueBool_Arr\obj\Debug\netcoreapp2.1\TrueBool_Arr.AssemblyInfoInputs.cache
+D:\General_Algorithms\Company_Interview_Questions\Garmin\TrueBool_Arr\TrueBool_Arr\obj\Debug\netcoreapp2.1\TrueBool_Arr.AssemblyInfo.cs
+D:\General_Algorithms\Company_Interview_Questions\Garmin\TrueBool_Arr\TrueBool_Arr\obj\Debug\netcoreapp2.1\TrueBool_Arr.dll
+D:\General_Algorithms\Company_Interview_Questions\Garmin\TrueBool_Arr\TrueBool_Arr\obj\Debug\netcoreapp2.1\TrueBool_Arr.pdb
