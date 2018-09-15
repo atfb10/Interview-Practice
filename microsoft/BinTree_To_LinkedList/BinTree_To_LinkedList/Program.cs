@@ -47,7 +47,7 @@ namespace BinTree_To_LinkedList
             if (head != null)
                 (head).left = root;
 
-            // convert left side of tree
+            // recursively convert left side of tree
             BinTreeToLinkedList(root.left);
         }
 
