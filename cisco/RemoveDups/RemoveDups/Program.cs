@@ -1,5 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
 
 /// <summary>
 /// Write a function, that given an array returns
@@ -15,9 +14,10 @@ namespace RemoveDups
             // test input
             char[] arr = { 'a', 'b', 'c', 'd', 'a', 'f', 'a', 'f', 'e', 'e', 'f' };
 
-            // call method, pass in arg
+            // create array with no duplicates
             char[] noDups = RemoveDups(arr);
 
+            // print the array with no duplicates
             PrintArr(noDups);
 
             // keep console open
@@ -27,34 +27,28 @@ namespace RemoveDups
         
         private static char[] RemoveDups(char[] arr)
         {
-            // have list to add string
-            List<char> newList = new List<char>();
-
-            // sort array
+            // sort array 
             Array.Sort(arr);
 
-            // make sure array is not empty
-            if (arr.Length == 0)
-            {
-                Console.WriteLine("Please enter a non-empty array");
-                return arr;
-            }
+            // create new array to hold only unique vals
+            char[] noDups = new char[arr.Length];
 
-            // loop through array
+            // counter for each noDups index
+            int j = 0;
+
+            // loop through the array
             for (int i = 0; i < arr.Length; i++)
             {
-                // if 
+                // check if end of array, or if next val not equal to current
                 if (i + 1 >= arr.Length || arr[i] != arr[i + 1])
                 {
-                    newList.Add(arr[i]);
+                    // if so, add value to end of new array
+                    noDups[j++] = arr[i];
                 }
             }
 
-            // convert list to array
-            char[] newArr = newList.ToArray();
-
-            // return the array
-            return newArr;
+            // return the new array
+            return noDups;
         }
 
         // utility to neatly print array
