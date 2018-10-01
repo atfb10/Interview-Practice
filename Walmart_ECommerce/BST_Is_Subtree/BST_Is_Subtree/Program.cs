@@ -31,7 +31,7 @@ namespace BST_Is_Subtree
 
                 // check if root and left and right sides are identical
                 return (root1.data == root2.data
-                    && Identical(root1.left, root2.right)
+                    && Identical(root1.left, root2.left)
                     && Identical(root1.right, root2.right));
             }
 
