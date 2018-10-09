@@ -1,0 +1,11 @@
+D:\General_Algorithms\Company_Interview_Questions\visa\Find_First_Dup\Find_First_Dup\bin\Debug\netcoreapp2.1\Find_First_Dup.deps.json
+D:\General_Algorithms\Company_Interview_Questions\visa\Find_First_Dup\Find_First_Dup\bin\Debug\netcoreapp2.1\Find_First_Dup.runtimeconfig.json
+D:\General_Algorithms\Company_Interview_Questions\visa\Find_First_Dup\Find_First_Dup\bin\Debug\netcoreapp2.1\Find_First_Dup.runtimeconfig.dev.json
+D:\General_Algorithms\Company_Interview_Questions\visa\Find_First_Dup\Find_First_Dup\bin\Debug\netcoreapp2.1\Find_First_Dup.dll
+D:\General_Algorithms\Company_Interview_Questions\visa\Find_First_Dup\Find_First_Dup\bin\Debug\netcoreapp2.1\Find_First_Dup.pdb
+D:\General_Algorithms\Company_Interview_Questions\visa\Find_First_Dup\Find_First_Dup\obj\Debug\netcoreapp2.1\Find_First_Dup.csprojAssemblyReference.cache
+D:\General_Algorithms\Company_Interview_Questions\visa\Find_First_Dup\Find_First_Dup\obj\Debug\netcoreapp2.1\Find_First_Dup.csproj.CoreCompileInputs.cache
+D:\General_Algorithms\Company_Interview_Questions\visa\Find_First_Dup\Find_First_Dup\obj\Debug\netcoreapp2.1\Find_First_Dup.AssemblyInfoInputs.cache
+D:\General_Algorithms\Company_Interview_Questions\visa\Find_First_Dup\Find_First_Dup\obj\Debug\netcoreapp2.1\Find_First_Dup.AssemblyInfo.cs
+D:\General_Algorithms\Company_Interview_Questions\visa\Find_First_Dup\Find_First_Dup\obj\Debug\netcoreapp2.1\Find_First_Dup.dll
+D:\General_Algorithms\Company_Interview_Questions\visa\Find_First_Dup\Find_First_Dup\obj\Debug\netcoreapp2.1\Find_First_Dup.pdb
