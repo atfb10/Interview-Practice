@@ -1,0 +1,11 @@
+D:\General_Algorithms\Company_Interview_Questions\visa\CountProdsOfSubArr\CountProdsOfSubArr\bin\Debug\netcoreapp2.1\CountProdsOfSubArr.deps.json
+D:\General_Algorithms\Company_Interview_Questions\visa\CountProdsOfSubArr\CountProdsOfSubArr\bin\Debug\netcoreapp2.1\CountProdsOfSubArr.runtimeconfig.json
+D:\General_Algorithms\Company_Interview_Questions\visa\CountProdsOfSubArr\CountProdsOfSubArr\bin\Debug\netcoreapp2.1\CountProdsOfSubArr.runtimeconfig.dev.json
+D:\General_Algorithms\Company_Interview_Questions\visa\CountProdsOfSubArr\CountProdsOfSubArr\bin\Debug\netcoreapp2.1\CountProdsOfSubArr.dll
+D:\General_Algorithms\Company_Interview_Questions\visa\CountProdsOfSubArr\CountProdsOfSubArr\bin\Debug\netcoreapp2.1\CountProdsOfSubArr.pdb
+D:\General_Algorithms\Company_Interview_Questions\visa\CountProdsOfSubArr\CountProdsOfSubArr\obj\Debug\netcoreapp2.1\CountProdsOfSubArr.csprojAssemblyReference.cache
+D:\General_Algorithms\Company_Interview_Questions\visa\CountProdsOfSubArr\CountProdsOfSubArr\obj\Debug\netcoreapp2.1\CountProdsOfSubArr.csproj.CoreCompileInputs.cache
+D:\General_Algorithms\Company_Interview_Questions\visa\CountProdsOfSubArr\CountProdsOfSubArr\obj\Debug\netcoreapp2.1\CountProdsOfSubArr.AssemblyInfoInputs.cache
+D:\General_Algorithms\Company_Interview_Questions\visa\CountProdsOfSubArr\CountProdsOfSubArr\obj\Debug\netcoreapp2.1\CountProdsOfSubArr.AssemblyInfo.cs
+D:\General_Algorithms\Company_Interview_Questions\visa\CountProdsOfSubArr\CountProdsOfSubArr\obj\Debug\netcoreapp2.1\CountProdsOfSubArr.dll
+D:\General_Algorithms\Company_Interview_Questions\visa\CountProdsOfSubArr\CountProdsOfSubArr\obj\Debug\netcoreapp2.1\CountProdsOfSubArr.pdb
