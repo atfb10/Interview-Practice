@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2016
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Inversion_Count_Array", "Inversion_Count_Array\Inversion_Count_Array.csproj", "{48EEE4A6-BC84-4A1C-AA97-0D86E7356CB4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{48EEE4A6-BC84-4A1C-AA97-0D86E7356CB4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{48EEE4A6-BC84-4A1C-AA97-0D86E7356CB4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{48EEE4A6-BC84-4A1C-AA97-0D86E7356CB4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{48EEE4A6-BC84-4A1C-AA97-0D86E7356CB4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C0E39FC4-AFD0-452E-975C-8A0F1DF2CE7A}
+	EndGlobalSection
+EndGlobal
