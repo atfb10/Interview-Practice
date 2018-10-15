@@ -1,0 +1,11 @@
+D:\General_Algorithms\Company_Interview_Questions\AT&T\PalindromeChecker\PalindromeChecker\bin\Debug\netcoreapp2.1\PalindromeChecker.deps.json
+D:\General_Algorithms\Company_Interview_Questions\AT&T\PalindromeChecker\PalindromeChecker\bin\Debug\netcoreapp2.1\PalindromeChecker.runtimeconfig.json
+D:\General_Algorithms\Company_Interview_Questions\AT&T\PalindromeChecker\PalindromeChecker\bin\Debug\netcoreapp2.1\PalindromeChecker.runtimeconfig.dev.json
+D:\General_Algorithms\Company_Interview_Questions\AT&T\PalindromeChecker\PalindromeChecker\bin\Debug\netcoreapp2.1\PalindromeChecker.dll
+D:\General_Algorithms\Company_Interview_Questions\AT&T\PalindromeChecker\PalindromeChecker\bin\Debug\netcoreapp2.1\PalindromeChecker.pdb
+D:\General_Algorithms\Company_Interview_Questions\AT&T\PalindromeChecker\PalindromeChecker\obj\Debug\netcoreapp2.1\PalindromeChecker.csprojAssemblyReference.cache
+D:\General_Algorithms\Company_Interview_Questions\AT&T\PalindromeChecker\PalindromeChecker\obj\Debug\netcoreapp2.1\PalindromeChecker.csproj.CoreCompileInputs.cache
+D:\General_Algorithms\Company_Interview_Questions\AT&T\PalindromeChecker\PalindromeChecker\obj\Debug\netcoreapp2.1\PalindromeChecker.AssemblyInfoInputs.cache
+D:\General_Algorithms\Company_Interview_Questions\AT&T\PalindromeChecker\PalindromeChecker\obj\Debug\netcoreapp2.1\PalindromeChecker.AssemblyInfo.cs
+D:\General_Algorithms\Company_Interview_Questions\AT&T\PalindromeChecker\PalindromeChecker\obj\Debug\netcoreapp2.1\PalindromeChecker.dll
+D:\General_Algorithms\Company_Interview_Questions\AT&T\PalindromeChecker\PalindromeChecker\obj\Debug\netcoreapp2.1\PalindromeChecker.pdb
