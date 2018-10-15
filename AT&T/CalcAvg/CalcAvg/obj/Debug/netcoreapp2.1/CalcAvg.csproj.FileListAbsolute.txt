@@ -1,0 +1,11 @@
+D:\General_Algorithms\Company_Interview_Questions\AT&T\CalcAvg\CalcAvg\bin\Debug\netcoreapp2.1\CalcAvg.deps.json
+D:\General_Algorithms\Company_Interview_Questions\AT&T\CalcAvg\CalcAvg\bin\Debug\netcoreapp2.1\CalcAvg.runtimeconfig.json
+D:\General_Algorithms\Company_Interview_Questions\AT&T\CalcAvg\CalcAvg\bin\Debug\netcoreapp2.1\CalcAvg.runtimeconfig.dev.json
+D:\General_Algorithms\Company_Interview_Questions\AT&T\CalcAvg\CalcAvg\bin\Debug\netcoreapp2.1\CalcAvg.dll
+D:\General_Algorithms\Company_Interview_Questions\AT&T\CalcAvg\CalcAvg\bin\Debug\netcoreapp2.1\CalcAvg.pdb
+D:\General_Algorithms\Company_Interview_Questions\AT&T\CalcAvg\CalcAvg\obj\Debug\netcoreapp2.1\CalcAvg.csprojAssemblyReference.cache
+D:\General_Algorithms\Company_Interview_Questions\AT&T\CalcAvg\CalcAvg\obj\Debug\netcoreapp2.1\CalcAvg.csproj.CoreCompileInputs.cache
+D:\General_Algorithms\Company_Interview_Questions\AT&T\CalcAvg\CalcAvg\obj\Debug\netcoreapp2.1\CalcAvg.AssemblyInfoInputs.cache
+D:\General_Algorithms\Company_Interview_Questions\AT&T\CalcAvg\CalcAvg\obj\Debug\netcoreapp2.1\CalcAvg.AssemblyInfo.cs
+D:\General_Algorithms\Company_Interview_Questions\AT&T\CalcAvg\CalcAvg\obj\Debug\netcoreapp2.1\CalcAvg.dll
+D:\General_Algorithms\Company_Interview_Questions\AT&T\CalcAvg\CalcAvg\obj\Debug\netcoreapp2.1\CalcAvg.pdb
