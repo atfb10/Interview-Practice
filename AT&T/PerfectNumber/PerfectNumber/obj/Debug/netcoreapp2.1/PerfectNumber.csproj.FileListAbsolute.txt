@@ -1,0 +1,11 @@
+D:\General_Algorithms\Company_Interview_Questions\AT&T\PerfectNumber\PerfectNumber\bin\Debug\netcoreapp2.1\PerfectNumber.deps.json
+D:\General_Algorithms\Company_Interview_Questions\AT&T\PerfectNumber\PerfectNumber\bin\Debug\netcoreapp2.1\PerfectNumber.runtimeconfig.json
+D:\General_Algorithms\Company_Interview_Questions\AT&T\PerfectNumber\PerfectNumber\bin\Debug\netcoreapp2.1\PerfectNumber.runtimeconfig.dev.json
+D:\General_Algorithms\Company_Interview_Questions\AT&T\PerfectNumber\PerfectNumber\bin\Debug\netcoreapp2.1\PerfectNumber.dll
+D:\General_Algorithms\Company_Interview_Questions\AT&T\PerfectNumber\PerfectNumber\bin\Debug\netcoreapp2.1\PerfectNumber.pdb
+D:\General_Algorithms\Company_Interview_Questions\AT&T\PerfectNumber\PerfectNumber\obj\Debug\netcoreapp2.1\PerfectNumber.csprojAssemblyReference.cache
+D:\General_Algorithms\Company_Interview_Questions\AT&T\PerfectNumber\PerfectNumber\obj\Debug\netcoreapp2.1\PerfectNumber.csproj.CoreCompileInputs.cache
+D:\General_Algorithms\Company_Interview_Questions\AT&T\PerfectNumber\PerfectNumber\obj\Debug\netcoreapp2.1\PerfectNumber.AssemblyInfoInputs.cache
+D:\General_Algorithms\Company_Interview_Questions\AT&T\PerfectNumber\PerfectNumber\obj\Debug\netcoreapp2.1\PerfectNumber.AssemblyInfo.cs
+D:\General_Algorithms\Company_Interview_Questions\AT&T\PerfectNumber\PerfectNumber\obj\Debug\netcoreapp2.1\PerfectNumber.dll
+D:\General_Algorithms\Company_Interview_Questions\AT&T\PerfectNumber\PerfectNumber\obj\Debug\netcoreapp2.1\PerfectNumber.pdb
