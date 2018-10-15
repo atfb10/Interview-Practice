@@ -1,0 +1,11 @@
+D:\General_Algorithms\Company_Interview_Questions\AT&T\BubbleSort\BubbleSort\bin\Debug\netcoreapp2.1\BubbleSort.deps.json
+D:\General_Algorithms\Company_Interview_Questions\AT&T\BubbleSort\BubbleSort\bin\Debug\netcoreapp2.1\BubbleSort.runtimeconfig.json
+D:\General_Algorithms\Company_Interview_Questions\AT&T\BubbleSort\BubbleSort\bin\Debug\netcoreapp2.1\BubbleSort.runtimeconfig.dev.json
+D:\General_Algorithms\Company_Interview_Questions\AT&T\BubbleSort\BubbleSort\bin\Debug\netcoreapp2.1\BubbleSort.dll
+D:\General_Algorithms\Company_Interview_Questions\AT&T\BubbleSort\BubbleSort\bin\Debug\netcoreapp2.1\BubbleSort.pdb
+D:\General_Algorithms\Company_Interview_Questions\AT&T\BubbleSort\BubbleSort\obj\Debug\netcoreapp2.1\BubbleSort.csprojAssemblyReference.cache
+D:\General_Algorithms\Company_Interview_Questions\AT&T\BubbleSort\BubbleSort\obj\Debug\netcoreapp2.1\BubbleSort.csproj.CoreCompileInputs.cache
+D:\General_Algorithms\Company_Interview_Questions\AT&T\BubbleSort\BubbleSort\obj\Debug\netcoreapp2.1\BubbleSort.AssemblyInfoInputs.cache
+D:\General_Algorithms\Company_Interview_Questions\AT&T\BubbleSort\BubbleSort\obj\Debug\netcoreapp2.1\BubbleSort.AssemblyInfo.cs
+D:\General_Algorithms\Company_Interview_Questions\AT&T\BubbleSort\BubbleSort\obj\Debug\netcoreapp2.1\BubbleSort.dll
+D:\General_Algorithms\Company_Interview_Questions\AT&T\BubbleSort\BubbleSort\obj\Debug\netcoreapp2.1\BubbleSort.pdb
